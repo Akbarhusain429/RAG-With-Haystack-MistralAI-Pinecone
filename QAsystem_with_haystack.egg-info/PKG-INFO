@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: qasystem-with-haystack
+Version: 0.0.1
+Author: AKBARHUSAIN
+Author-email: sunny.savita@ineuron.ai
+Requires-Dist: pinecone-haystack
+Requires-Dist: haystack-ai
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: pathlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
